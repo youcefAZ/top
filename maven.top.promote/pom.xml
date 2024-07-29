@@ -19,11 +19,11 @@
 
 
 	<dependencies>
-	<!-- <dependency> -->
-	<!-- <groupId>com.fastcube.tibco.Infra.rex.top</groupId> -->
-	<!-- <artifactId>bw.app.application</artifactId> -->
-	<!-- <version>${project.version}</version> -->
-	<!-- <type>ear</type> -->
-	<!-- </dependency> -->
-	</dependencies>
+            <dependency>
+                <groupId>com.fastcube.tibco.Infra.rex.top</groupId>
+                <artifactId>bw.mc-top.application</artifactId>
+                <version>${project.version}</version>
+                <type>ear</type>
+            </dependency>
+        </dependencies>
 </project>
